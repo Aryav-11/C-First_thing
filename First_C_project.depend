@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1620007650 source:c:\users\dell-pc\desktop\for website\websites\c\first_c_project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1620011985 source:c:\users\dell-pc\desktop\for website\c\first_c_project\main.c
+	<stdio.h>
+	<stdlib.h>
+
